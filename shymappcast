@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Turandot Loyality</title>
+        <!-- A release testing minimumSystemVersion -->
+        <item>
+          <title>Version 3.2.5</title>
+          <description>Minor updates and improvements.</description>
+          <pubDate>Sat, 26 Nov 2024 15:20:13 +0000</pubDate>
+          <sparkle:minimumSystemVersion>3.2.5</sparkle:minimumSystemVersion>
+        </item>
+        <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
+    </channel>
+</rss>
